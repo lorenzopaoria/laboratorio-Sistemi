@@ -1,1 +1,4 @@
-Esercizi di esercitazione per il laboratorio di Sistemi Operativi 
+# Laboratorio Sistemi Operativi
+
+All codes for Sistemi Operativi 21/22.
+
